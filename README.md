@@ -24,5 +24,3 @@ This project is an **end-to-end data analytics workflow** performed on a car sho
 - Integrate predictive models (e.g., regression or classification) to forecast sales or customer behavior  
 - Build interactive Power BI dashboards for showroom management  
 - Add automated reporting for management insights  
-
-## Project Structure
